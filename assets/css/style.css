@@ -704,7 +704,7 @@ a.btn.btn-mini:hover {
 .post-content div,
 .post-content b,
 .post-content i {
-  text-align: left;
+  text-align: center;
 }
 .post-content ul strong,
 .post-content ol strong,
@@ -851,12 +851,12 @@ a.btn.btn-mini:hover {
   cursor: default;
   display: block;
   width: 50%;
-  float: left;
-  text-align: left;
+  float: center;
+  text-align: center;
 }
 .post-author img {
   display: block;
-  float: left;
+  float: center;
   width: 45px;
   height: 45px;
   -webkit-border-radius: 50%;
@@ -869,7 +869,7 @@ a.btn.btn-mini:hover {
   height: 45px;
 }
 .post-author p {
-  float: left;
+  float: center;
   font-size: 0.85rem;
   padding: 0 0 0 20px;
   margin: 0;
@@ -953,7 +953,7 @@ div.posts div.item .post-content p,
 div.posts div.item .post-content div,
 div.posts div.item .post-content b,
 div.posts div.item .post-content i {
-  text-align: left;
+  text-align: center;
 }
 div.posts div.item .post-content ul strong,
 div.posts div.item .post-content ol strong,
