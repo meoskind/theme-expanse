@@ -856,7 +856,16 @@ a.btn.btn-mini:hover {
   float: center;
   text-align: center;
 }
-
+.post-author img {
+  display: block;
+  float: center;
+  width: 45px;
+  height: 45px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  overflow: hidden;
+}
 .post-author img img {
   width: 45px;
   height: 45px;
