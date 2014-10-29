@@ -859,6 +859,7 @@ a.btn.btn-mini:hover {
   float: center;
   width: 45px;
   height: 45px;
+  text-aligh: center;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
