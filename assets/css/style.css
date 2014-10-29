@@ -268,6 +268,7 @@ header h1 {
   font-family: 'Roboto';
   font-weight: 700;
   text-transform: uppercase;
+  text-align: center;
   font-size: 1.75rem;
   color: #ffffff;
   float: left;
