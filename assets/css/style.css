@@ -37,7 +37,7 @@ h1,
 h2,
 h3,
 h4 {
-  position: left;
+  position: center;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -71,7 +71,7 @@ h1,
 h2,
 h3,
 h4 {
-  text-align: center;
+  text-align: left;
   color: #0e3029;
   padding: 0 0 50px 0;
   font-family: 'Roboto';
@@ -80,7 +80,7 @@ h4 {
 h1 {
   font-size: 3rem;
   line-height: 4.2rem;
-  text-align: center;
+  text-align: left;
 }
 h2 {
   font-size: 2rem;
