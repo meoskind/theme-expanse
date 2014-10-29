@@ -880,7 +880,7 @@ a.btn.btn-mini:hover {
   float: center;
   font-size: 0.85rem;
   padding: 0 0 0 20px;
-  margin: 0 auto;
+  margin: 0;
 }
 .post-author p span {
   font-weight: bold;
