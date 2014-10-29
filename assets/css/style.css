@@ -270,7 +270,7 @@ header h1 {
   text-transform: uppercase;
   font-size: 1.75rem;
   color: #ffffff;
-  float: right;
+  float: left;
   width: 50%;
   margin: 0;
   padding: 0;
@@ -704,7 +704,7 @@ a.btn.btn-mini:hover {
 .post-content div,
 .post-content b,
 .post-content i {
-  text-align: center;
+  text-align: left;
 }
 .post-content ul strong,
 .post-content ol strong,
@@ -851,12 +851,12 @@ a.btn.btn-mini:hover {
   cursor: default;
   display: block;
   width: 50%;
-  float: center;
-  text-align: center;
+  float: left;
+  text-align: left;
 }
 .post-author img {
   display: block;
-  float: center;
+  float: left;
   width: 45px;
   height: 45px;
   -webkit-border-radius: 50%;
@@ -953,7 +953,7 @@ div.posts div.item .post-content p,
 div.posts div.item .post-content div,
 div.posts div.item .post-content b,
 div.posts div.item .post-content i {
-  text-align: center;
+  text-align: left;
 }
 div.posts div.item .post-content ul strong,
 div.posts div.item .post-content ol strong,
