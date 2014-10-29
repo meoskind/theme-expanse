@@ -704,7 +704,7 @@ a.btn.btn-mini:hover {
 .post-content div,
 .post-content b,
 .post-content i {
-  text-align: center;
+  text-align: left;
 }
 .post-content ul strong,
 .post-content ol strong,
@@ -852,7 +852,7 @@ a.btn.btn-mini:hover {
   display: block;
   width: 50%;
   float: left;
-  text-align: left;
+  text-align: center;
 }
 .post-author img {
   display: block;
