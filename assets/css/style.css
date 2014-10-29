@@ -851,14 +851,14 @@ a.btn.btn-mini:hover {
 }
 .post-author {
   cursor: default;
-  
+  display: block;
   width: 50%;
   float: center;
   text-align: center;
 }
 .post-author img {
   display: block;
-  float: center;
+
   width: 45px;
   height: 45px;
   -webkit-border-radius: 50%;
