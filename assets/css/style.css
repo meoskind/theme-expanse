@@ -879,6 +879,8 @@ a.btn.btn-mini:hover {
 }
 .post-author p {
   float: center;
+  margin-left: auto;
+  margin-right: auto;
   font-size: 0.85rem;
   padding: 0 0 0 20px;
   margin: 0;
