@@ -37,7 +37,7 @@ h1,
 h2,
 h3,
 h4 {
-  position: relative;
+  position: center;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -859,7 +859,6 @@ a.btn.btn-mini:hover {
   float: center;
   width: 45px;
   height: 45px;
-  text-aligh: center;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
