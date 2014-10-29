@@ -871,6 +871,8 @@ a.btn.btn-mini:hover {
   overflow: hidden;
 }
 .post-author img img {
+  margin-left: auto;
+  margin-right: auto;
   width: 45px;
   height: 45px;
 }
